@@ -2,7 +2,7 @@
 <h2>Инструкция:</h2>
 
 1) <h3>Запуск:</h3> 
-  <p>Клонируем на свой ПК репозиторий https://github.com/PTaras/API_URL.git <p>
+  <p>Клонируем на свой ПК репозиторий `$ git clone https://github.com/PTaras/API_URL.git `<p>
   Запускаем проект => файл <i>app.py</i>
   
 2) <h3>Краткое описание функционала API</h3>
